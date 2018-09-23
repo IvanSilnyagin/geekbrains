@@ -1,1 +1,2 @@
 ﻿Print ("Hello world!")
+Print ("I want knew java!")
